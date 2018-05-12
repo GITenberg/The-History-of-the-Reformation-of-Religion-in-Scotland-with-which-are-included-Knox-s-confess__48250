@@ -1,10 +1,14 @@
 _repo: The-History-of-the-Reformation-of-Religion-in-Scotland-with-which-are-included-Knox-s-confess__48250
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Lennox, Cuthbert
       gutenberg_agent_id: '44700'
       url: http://www.gutenberg.org/2009/agents/44700
+covers:
+- cover_type: archival
+  image_path: 48250-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Knox, John
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3121
     wikipedia: http://en.wikipedia.org/wiki/John_Knox
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48250#The-History-of-the-Reformation-of-Religion-in-Scotland-with-which-are-included-Knox-s-confess_
 gutenberg_issued: '2015-02-13'
 gutenberg_type: Text
 identifiers:
